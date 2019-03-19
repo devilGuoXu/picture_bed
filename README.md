@@ -1,1 +1,1 @@
-# picture_bed
+# 图片仓库
